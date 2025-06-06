@@ -34,20 +34,27 @@ financial-analytics-google-stock/
 ├── requirements.txt
 └── README.md
 
+🔗 Connect with Me
+👩‍💻 LinkedIn (https://www.linkedin.com/in/saloni-singh1329/)
+
+🐙 GitHub(https://github.com/inolas-bit)
+
+🧠 Kaggle(https://www.kaggle.com/heresalonisingh)
+
+📌 License
+This project is for educational and portfolio use. Attribution appreciated if reused.
+© 2025 Saloni Kumari Singh
+
+vbnet
+Copy
+Edit
+
+
 ## 📦 Installation
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/heresalonisingh/financial-analytics-google-stock.git
-cd financial-analytics-google-stock
+git clone https://github.com/inolas-bit/financial-analytics-google-stock.git
+cd Financial-analytics-google-stock
 
-#Connect with Me
-👩‍💻 LinkedIn 
 
-🐙 GitHub
-
-🧠 Kaggle
-
-📌 #License 
-This project is for educational and portfolio use. Attribution appreciated if reused.
-© 2025 Saloni Kumari Singh
